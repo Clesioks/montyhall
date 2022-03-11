@@ -6,7 +6,10 @@ O jogo consistia no seguinte: Monty Hall, o apresentador, apresentava três port
 <div align="center">
 <img src="https://user-images.githubusercontent.com/45744599/157950716-a791d3d7-a733-464e-a942-37ff553e69af.png"/>
  <div>
-
+  
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/45744599/157954166-c23b75be-eac7-4fd5-99ff-f950d80cd158.png"/>
+  <div>
 
 
 ## Getting Started
